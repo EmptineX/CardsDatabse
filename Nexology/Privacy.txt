@@ -1,0 +1,33 @@
+Nexology – Privacy Policy
+
+Last updated: (add date)
+
+Nexology respects user privacy and is designed to operate responsibly and ethically.
+
+1. Data Collection
+
+Nexology only collects the minimum data required to function properly, such as server IDs, channel IDs, user IDs, and command usage. No unnecessary or sensitive personal data is collected.
+
+2. Data Usage
+
+Collected data is used solely to provide Nexology’s features, including moderation, protection, and security functions. Data is not used for tracking, profiling, or advertising.
+
+3. Data Sharing
+
+Nexology does not sell, trade, or share collected data with third parties, except when required by law or to comply with Discord’s policies.
+
+4. Data Storage
+
+Data is stored securely and retained only for as long as necessary for operational purposes. Data may be removed upon bot removal or request where applicable.
+
+5. User Control
+
+Server owners maintain control over Nexology’s configuration and usage within their servers. Removing the bot stops further data collection for that server.
+
+6. Children’s Privacy
+
+Nexology does not knowingly collect data from users under the age required by Discord’s Terms of Service.
+
+7. Changes
+
+This Privacy Policy may be updated at any time. Continued use of Nexology indicates acceptance of the updated policy.
