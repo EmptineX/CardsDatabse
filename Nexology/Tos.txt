@@ -1,0 +1,42 @@
+Nexology – Terms of Service
+
+Last updated: 13th January, 2026
+
+By using Nexology, you agree to the following Terms of Service. If you do not agree, you may not use the application.
+
+1. Purpose
+
+Nexology is designed to provide protection, moderation, and security features for Discord servers. It does not target or intentionally harm innocent servers or users.
+
+2. Acceptable Use
+
+You agree not to use Nexology to:
+
+Harass, abuse, or target innocent users or servers
+
+Violate Discord’s Terms of Service or Community Guidelines
+
+Engage in illegal, unethical, or malicious activity
+
+
+Misuse may result in access termination without notice.
+
+3. Privacy
+
+Nexology respects user privacy. It does not collect or store personal data beyond what is necessary for its functionality. No data is sold or shared with third parties.
+
+4. Responsibility
+
+Server owners are responsible for how Nexology is configured and used within their servers. The developers are not liable for damages caused by misuse or misconfiguration.
+
+5. Availability
+
+Nexology is provided “as is” and may be updated, modified, or discontinued at any time without prior notice.
+
+6. Enforcement
+
+We reserve the right to restrict or revoke access to Nexology for violations of these terms.
+
+7. Changes
+
+These Terms may be updated at any time. Continued use of Nexology constitutes acceptance of the updated Terms.
